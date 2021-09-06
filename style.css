@@ -1,0 +1,21 @@
+        .kbtn:hover {
+            color: rgb(7, 224, 224);
+        }
+        
+        .kbtn {}
+        
+        .kbtn2 {
+            font-size: 12px;
+        }
+        
+        .pt-k {
+            padding-top: 1%;
+        }
+        
+         ::placeholder {
+            text-align: center;
+        }
+        
+        li {
+            padding-bottom: 6px;
+        }
